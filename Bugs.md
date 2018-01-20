@@ -1,0 +1,1 @@
+- If there are three recipes in the system and a new one is added, an error message is not printed.
