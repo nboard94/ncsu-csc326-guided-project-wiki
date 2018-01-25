@@ -1,1 +1,0 @@
-Add 6 black box tests
